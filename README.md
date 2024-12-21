@@ -20,7 +20,7 @@ This Home Lab project was aimed to set up and configure a personal cybersecurity
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 - Penetration testing tools (nmap) to run a network scan.
 
-## Steps
+## Project Walkthrough
 First, I downloaded VirtualBox as well as ISO files for Ubuntu and Kali Linux.
 
 I then created two virtual machines through VirtualBox using the ISO files. This way, I could simulate network attacks using Kali Linux as the attacker and Ubuntu as the defender.
